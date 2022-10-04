@@ -13,8 +13,9 @@ header img{
 }
 
 body {
+    background-position: center;
+    height: 100vh;
     border-radius: 10px;       
-    text-align: justify;
     font-family: 'Roboto', sans-serif;
     -webkit-box-shadow: 3px 4px 19px 7px rgba(0,0,0,0.75);
     -moz-box-shadow: 3px 4px 19px 7px rgba(0,0,0,0.75);
