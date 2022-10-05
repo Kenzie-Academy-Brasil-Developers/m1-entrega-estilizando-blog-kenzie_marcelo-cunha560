@@ -61,6 +61,8 @@ p{
 }
 
 form{
+    background: url(mountain.jpg) center center;
+    background-size: cover;
     margin: 10px 0px 10px 0px;
     border: solid black;
     background-color: white;
