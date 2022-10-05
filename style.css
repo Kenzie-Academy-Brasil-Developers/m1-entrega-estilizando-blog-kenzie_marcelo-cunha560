@@ -32,6 +32,8 @@ h1{
 
 p{
     text-align: justify;
+    display: flex;
+    flex-direction: column;
 }
 
 .ling{
