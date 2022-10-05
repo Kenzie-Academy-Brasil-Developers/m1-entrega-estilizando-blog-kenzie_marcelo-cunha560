@@ -61,10 +61,14 @@ p{
 }
 
 form{
+<<<<<<< HEAD
     background-image: url(mountain.jpg);
+=======
+>>>>>>> cfb832375e98a70ba83e3768ecdc48e57952b4ab
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
+    background-image: url(mountain.jpg);
     margin: 10px 0px 10px 0px;
     border: solid black;
     height: 150px;
